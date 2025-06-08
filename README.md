@@ -1,4 +1,4 @@
-# 🧠 Mental Health Data Analysis Dashboard | Power BI + Excel + SQL Project
+# 🧠 Mental Health Data Analysis Dashboard | Power BI + Excel + Python Project
 
 An interactive **Power BI dashboard** designed to analyze mental health patterns in workplace and societal contexts. This project explores trends in treatment rates, stigma levels, support availability, and demographics to support awareness and data-driven mental wellness policies.
 
@@ -66,8 +66,7 @@ This project leverages survey data on mental health to:
 
 ## 🔗 Let's Connect
 
-📫 aritra.your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aritra-sadhukhan)  
-💻 [GitHub](https://github.com/aritra-git)
-
+📫 debjotychandra@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/debjoty-chandra)  
+💻 [GitHub](https://github.com/Debjoty)
 ---
